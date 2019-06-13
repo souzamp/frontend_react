@@ -1,0 +1,3 @@
+COMANDOS HEROKU PARA PODER VER OS LOGS DA APLICAÇÃO
+
+heroku logs -t --app omnistack-bachend
